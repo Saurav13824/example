@@ -2,7 +2,7 @@
 <body>
 <script language="javascript" type="text/javascript">
 <!--
- document.write ("hello world")
+ document.write ("I am learning git.")
 //--)
 </script>
 </body>
